@@ -15,7 +15,7 @@ The marathon was one of the original modern Olympic events in 1896, though the d
 
 Fun Facts:
 
-* 7 of the top 10 men’s record holders in the marathon are Kenyan, 4 out of 10 were set at the Berlin Marathon
-* The current men’s world record is 2 hours 3 min and 38 sec; women’s world record is 2 hours 15 min and 25 sec
+* 7 of the top 10 men's record holders in the marathon are Kenyan, 4 out of 10 were set at the Berlin Marathon
+* The current men's world record is 2 hours 3 min and 38 sec; women's world record is 2 hours 15 min and 25 sec
 * Fauja Singh, 100, finished the Toronto Waterfront Marathon, becoming the first centenarian ever to officially complete that distance. Singh, a British citizen, finished the race on 16 October 2011 with a time of 8:11:5.9, making him the oldest marathoner.
 * In 2005, the average marathon time in the U.S. was 4 hours 32 minutes 8 seconds for men, 5 hours 6 minutes 8 seconds for women.
