@@ -19,3 +19,5 @@ Fun Facts:
 * The current men's world record is 2 hours 3 min and 38 sec; women's world record is 2 hours 15 min and 25 sec
 * Fauja Singh, 100, finished the Toronto Waterfront Marathon, becoming the first centenarian ever to officially complete that distance. Singh, a British citizen, finished the race on 16 October 2011 with a time of 8:11:5.9, making him the oldest marathoner.
 * In 2005, the average marathon time in the U.S. was 4 hours 32 minutes 8 seconds for men, 5 hours 6 minutes 8 seconds for women.
+
+Yay!
