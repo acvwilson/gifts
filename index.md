@@ -1,3 +1,7 @@
+---
+title: Wilson Gifts
+---
+
 # List of gifts
 
 * donations
