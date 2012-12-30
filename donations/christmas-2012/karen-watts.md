@@ -15,8 +15,13 @@ Watercolor (American English) or watercolour (Commonwealth and Ireland), also aq
 Fun Facts:
 
 * Albrecht Durer (1471-1528) is considered the earliest master of the medium
+
 * Paints consist of four ingredients: pigments, a binder to hold the pigment in suspension, additives, and solvent to thin or dilute -- watercolors use water soluble complex carbohydrates as the binder.
+
     * in the 16th to 18th centuries sugars or hide glues were used as the binder
+
 * There are no white watercolors; white in paintings is usually areas of the paper showing through.
+
 * Water color pencils and water color pastels are available to draw fine details and then blend them with water to soften.
+
 * The difficulty in painting with water colors is anticipating the behavior of water rather than attempting to control it.
