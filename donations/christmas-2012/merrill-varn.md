@@ -26,4 +26,5 @@ The Eight Limbs are:
 8. Samadhi ("Liberation"): merging consciousness with the object of meditation.
 
 From Wikipedia:
+
 You should know: your donation isn't just covering your own costs. The average donor is paying for his or her own use of Wikipedia, plus the costs of hundreds of other people. Your donation keeps Wikipedia available for an ambitious kid in Bangalore who's teaching herself computer programming. A middle-aged homemaker in Vienna who's just been diagnosed with Parkinson's disease. A novelist researching 1850s Britain. A 10-year-old in San Salvador who's just discovered Carl Sagan.
