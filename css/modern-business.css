@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    background-color: green;
+    background-color: #aec236;
 }
 
 .img-portfolio {
@@ -45,7 +45,17 @@ header.carousel .fill {
 }
 
 .video {
-    padding: 10px;
+    padding-top: 10px;
+    margin: auto;
+    width: 640px;
+}
+
+.info {
+  padding-top: 10px
+}
+
+.tagline {
+  font-size: 22px;
 }
 
 .container {
