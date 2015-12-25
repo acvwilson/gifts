@@ -43,6 +43,10 @@ header.carousel .fill {
     background-size: cover;
 }
 
+.video {
+    padding: 10px;
+}
+
 /* 404 Page Styles */
 
 .error-404 {
