@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: green;
 }
 
 .img-portfolio {
@@ -28,6 +28,7 @@ body {
 header.carousel {
     height: 90px;
     width: 728px;
+    margin: auto;
 }
 
 header.carousel .item,
@@ -45,6 +46,11 @@ header.carousel .fill {
 
 .video {
     padding: 10px;
+}
+
+.container {
+  width: 728px;
+  background-color: white;
 }
 
 /* 404 Page Styles */
