@@ -26,7 +26,7 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 50%;
+    height: 90px;
 }
 
 header.carousel .item,
@@ -40,6 +40,10 @@ header.carousel .fill {
     height: 100%;
     background-position: center;
     background-size: cover;
+}
+
+.video {
+  margin: 0px auto;
 }
 
 /* 404 Page Styles */
@@ -88,6 +92,6 @@ footer {
     }
 
     header.carousel .carousel {
-        height: 70%;
+        height: 90px;
     }
 }
